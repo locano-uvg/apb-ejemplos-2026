@@ -2,12 +2,12 @@
 ===========================================================================
     Universidad del Valle de Guatemala
     Algoritmos y Programación Básica
-    Semestre 1, 2025
+    Semestre 1, 2026
 ---------------------------------------------------------------------------
     Nombre del Archivo: nombre_del_script.py
-    Autor: Erick Marroquin
+    Autor: Ludwing Cano
     Carnet: 123456
-    Fecha de Creación: 07/02/25
+    Fecha de Creación: 07/02/26
     Descripción:
         Programa para determininar impuestos
 ===========================================================================

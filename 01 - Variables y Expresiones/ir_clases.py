@@ -1,11 +1,11 @@
 # ===============================================
 # === Universidad del Valle de Guatemala
 # === cc2005- Algoritmos y programación básica
-# === Erick Marroquin
+# === Ludwing Cano
 # === 123456
 # ===
 # === Sumar 2 numeros
-# === 28/01/25
+# === 28/01/26
 # ===============================================
 
 Dia = 3

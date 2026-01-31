@@ -3,11 +3,11 @@
 ===========================================================================
     Universidad del Valle de Guatemala
     Algoritmos y Programación Básica
-    Semestre 1, 2025
+    Semestre 1, 2026
 ---------------------------------------------------------------------------
     Nombre del Archivo: menu.py
-    Autor: Erick Marroquin
-    Fecha de Creación: 18/02/25
+    Autor: Ludwing Cano
+    Fecha de Creación: 18/02/26
     Descripción:
         Ejemplo de un menu con while
 ===========================================================================
