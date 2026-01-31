@@ -1,5 +1,5 @@
 
-estudiante1 = ["1234", "Erick Marroquin", "Computacion", 100, 90, 75, 100, 80]
+estudiante1 = ["1234", "Ludwing Cano", "Computacion", 100, 90, 75, 100, 80]
 
 print(estudiante1)
 

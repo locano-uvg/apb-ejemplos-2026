@@ -1,6 +1,6 @@
 # CC2005 - Algoritmos y Programación Básica
 
-Este repositorio contiene el material de apoyo para el curso **CC2005 - Algoritmos y Programación Básica**, impartido en el semestre 01 de 2025. Aquí encontrarás ejemplos de código, ejercicios y proyectos trabajados en clase.
+Este repositorio contiene el material de apoyo para el curso **CC2005 - Algoritmos y Programación Básica**, impartido en el semestre 01 de 2026. Aquí encontrarás ejemplos de código, ejercicios y proyectos trabajados en clase.
 
 ## Objetivos del Curso
 
